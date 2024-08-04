@@ -4178,8 +4178,29 @@ body{
 }
 
 .logo_ufundi img{
-	margin-top: 50px;
+	margin-top: 45px;
 }
+
+/* civil engeneering */
+.img_civil{
+	margin-top: 20px;
+}
+
+
+/* steel erection */
+#bloc_steel_erection{
+	margin-top: 40px;
+}
+.img_steel_rection{
+	margin-top: 20px;
+}
+
+#text_steel_erection{
+	margin-top: 20px;
+}
+
+/* Energy */
+
 /*=========================
 	End Footer CSS
 ===========================*/
